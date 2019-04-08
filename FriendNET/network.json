@@ -1,0 +1,108 @@
+{
+    "Connections": [
+        {
+            "A": "Luke",
+            "B": "Ben",
+            "W": 8
+        },
+        {
+            "A": "Luke",
+            "B": "Han",
+            "W": 7
+        },
+        {
+            "A": "Luke",
+            "B": "Leia",
+            "W": 8
+        },
+        {
+            "A": "Luke",
+            "B": "Anakin",
+            "W": 10
+        },
+        
+        {
+            "A": "Ben",
+            "B": "Luke",
+            "W": 9
+        },
+        {
+            "A": "Ben",
+            "B": "Han",
+            "W": 6
+        },
+        {
+            "A": "Ben",
+            "B": "Leia",
+            "W": 9
+        },
+        {
+            "A": "Ben",
+            "B": "Anakin",
+            "W": 10
+        },
+        
+        {
+            "A": "Han",
+            "B": "Luke",
+            "W": 8
+        },
+        {
+            "A": "Han",
+            "B": "Ben",
+            "W": 6
+        },
+        {
+            "A": "Han",
+            "B": "Leia",
+            "W": 10
+        },
+        {
+            "A": "Han",
+            "B": "Anakin",
+            "W": 1
+        },
+        
+        {
+            "A": "Leia",
+            "B": "Luke",
+            "W": 8
+        },
+        {
+            "A": "Leia",
+            "B": "Ben",
+            "W": 9
+        },
+        {
+            "A": "Leia",
+            "B": "Han",
+            "W": 10
+        },
+        {
+            "A": "Leia",
+            "B": "Anakin",
+            "W": 5
+        },
+        
+        {
+            "A": "Anakin",
+            "B": "Luke",
+            "W": 10
+        },
+        {
+            "A": "Anakin",
+            "B": "Ben",
+            "W": 3
+        },
+        {
+            "A": "Anakin",
+            "B": "Leia",
+            "W": 10
+        },
+        {
+            "A": "Anakin",
+            "B": "Han",
+            "W": 1
+        },
+    ]
+}
